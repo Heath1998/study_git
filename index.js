@@ -2,7 +2,6 @@ console.log('hello-init');
 
 console.log("this is fan commit");
 
-<<<<<<< HEAD
 console.log('this is mao commit');
 console.log('11111')
 console.log('11111')
@@ -15,13 +14,4 @@ console.log('11111')
 console.log('11111')
 console.log('11111')
 console.log('11111')
-=======
-console.log('this is mao co12323123mmit');
-console.log('this is mao co12323123mmit');
-console.log('this is mao co12323123mmit');
-console.log('this is mao co12323123mmit');
-console.log('this is mao co12323123mmit');
-console.log('this is mao co12323123mmit');
-console.log('this is mao co12323123mmit');
-
->>>>>>> dev-test
+console.log('112222111')
