@@ -7,3 +7,7 @@ console.log(123);
 console.log('345');
 
 console.log('798');
+function one() {
+  zor();
+}
+one();
